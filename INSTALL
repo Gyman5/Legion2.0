@@ -1,0 +1,9 @@
+Building Legion
+
+See doc/readme-qt.rst for instructions on building Legion QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Legion.
+
+See doc/build-*.txt for instructions on building Legiond,
+the intended-for-services, no-graphical-interface, reference
+implementation of Legion.
